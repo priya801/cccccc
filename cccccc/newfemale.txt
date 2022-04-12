@@ -2,7 +2,4 @@
 2.dd
 3.rt
 4.cv
-5.ju
-6.uj
-7.ol
-8.hft
+
