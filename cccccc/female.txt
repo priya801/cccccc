@@ -1,11 +1,9 @@
-samantha 
-thrisha
-raki
- lavanya
- priya
- rajvyaii
- kavya
- shabeera
- siri
+1.samantha 
+2.thrisha
+3.raki
+4. lavanya
+5. priya
+6. rajvyaii
+ 
 
 
